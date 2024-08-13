@@ -1,7 +1,7 @@
 // import { VBotClient } from "./vbot-sdk-1.0.8-dev.js";
 // import { VBotClient } from "./vbot-sdk-1.0.9.js";
-// import { VBotClient } from "./vbot-sdk-1.1.0.js";
-import { VBotClient } from "./vbot-sdk-1.1.0-dev.js";
+import { VBotClient } from "./vbot-sdk-1.1.0.js";
+// import { VBotClient } from "./vbot-sdk-1.1.0-dev.js";
 // import { VBotClient } from "./vbot-sdk-1.0.8.js";
 
 var clientCall;
